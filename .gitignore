@@ -1,0 +1,90 @@
+
+# ==============================
+# Node.js
+# ==============================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+.npm/
+.pnp.*
+
+# Build output
+dist/
+build/
+coverage/
+.next/
+out/
+
+# ==============================
+# Environment variables
+# ==============================
+.env
+.env.*
+!.env.example
+
+# ==============================
+# Docker
+# ==============================
+.docker/
+docker-compose.override.yml
+
+# ==============================
+# MongoDB - local database
+# ==============================
+data/
+mongo-data/
+mongodb-data/
+db-data/
+dump/
+*.bson
+*.wt
+*.ns
+WiredTiger*
+_mdb_catalog.wt
+mongod.lock
+diagnostic.data/
+
+# ==============================
+# Logs
+# ==============================
+logs/
+*.log
+
+# ==============================
+# Temporary files
+# ==============================
+tmp/
+temp/
+.cache/
+*.tmp
+*.swp
+*.swo
+
+# ==============================
+# IDE and editors
+# ==============================
+.idea/
+.vscode/
+!.vscode/extensions.json
+*.iml
+
+# ==============================
+# Operating system
+# ==============================
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ==============================
+# Testing
+# ==============================
+.nyc_output/
+test-results/
+
+# ==============================
+# Miscellaneous
+# ==============================
+*.bak
+*.old
+*.orig

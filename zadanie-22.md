@@ -1,0 +1,1 @@
+Dokumentacja jest przejrzysta, logicznie uporządkowana i zawiera wszystkie najważniejsze sekcje potrzebne do uruchomienia oraz korzystania z API. Warto jednak doprecyzować endpointy, strukturę danych i wymagania autoryzacji, aby dokumentacja w pełni odpowiadała rzeczywistej implementacji projektu.

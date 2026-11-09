@@ -1,0 +1,1 @@
+Wygenerowana dokumentacja jest przejrzysta, czytelna i zawiera najważniejsze informacje potrzebne do korzystania z endpointu API. Wymaga jednak uzupełnienia i weryfikacji niektórych szczegółów, aby w pełni odpowiadała rzeczywistej implementacji.
